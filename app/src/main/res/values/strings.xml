@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFinalsAssiment</string>
+    <string name="share_text_with" />
 </resources>
